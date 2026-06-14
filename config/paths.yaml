@@ -1,0 +1,11 @@
+project_root: .
+data:
+  raw_feb316: data/raw/ZA5474_FEB316/ZA5474_v1-0-0.xlsx
+  raw_eb682: data/raw/ZA4742_EB68_2/ZA4742_v4-0-1.sav
+  processed_feb316: data/processed/FEB316
+  processed_eb682: data/processed/EB68_2
+outputs:
+  results: outputs/results
+  figures: outputs/figures
+  reports: outputs/reports
+archive: archive_old
